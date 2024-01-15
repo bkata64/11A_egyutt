@@ -1,0 +1,16 @@
+body {
+    background-image: url(../img/pinkhatter.png);
+    background-size: cover;
+}
+
+
+.pic {
+    border-color: deeppink, white;
+      border-style:groove ;
+      padding: 20px;
+      border: 10px;
+   
+}
+
+
+  
