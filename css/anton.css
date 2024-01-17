@@ -1,4 +1,18 @@
 main {
-    background-image: url('../img/code.jpg');
+    background-image: url('../img/prog.png');
     height: 80vh;
+}
+a{
+    text-decoration: none;
+    color: black;
+    display: inline;
+    margin-left: 20%;
+}
+.nev{
+    display: inline;
+    margin-left: 35%;
+    margin-right: 10%;
+}
+#lol{
+    text-align: left;
 }
