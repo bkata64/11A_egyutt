@@ -26,4 +26,6 @@ ul{
 }
 #weed{
     width: 500px;
+    border: 4px green solid;
+    border-radius: 100px 100px;
 }
