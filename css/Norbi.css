@@ -8,4 +8,6 @@ body{
 img{
     width: 650px;
     height: 400px;
+    border: 3px silver;
+    border-radius: 20px ;
 }
